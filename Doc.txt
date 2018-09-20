@@ -1,7 +1,7 @@
-Números (Pares) hasta el 10
+Números (Pares) hasta el 12 sin el 2
 
-2
 4
 6
 8
 10
+12
